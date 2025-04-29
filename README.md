@@ -35,7 +35,7 @@
  - **Average Recall**: 85.81%
  - **Average F1 Score**: 85.74%
 
- ![Confusion Matrix](confusion_matrix.png)
+ ![Confusion Matrix](Confusion_Matrix.png)
 
  ## Model Architecture
  - **Conv1D**: Feature extraction from time series data.
